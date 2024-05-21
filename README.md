@@ -26,19 +26,18 @@ Para executar este projeto, você precisará das seguintes ferramentas instalada
 
 XAMPP ou similar (Apache, MySQL, PHP)
 Instalação
-1. Clone o Repositório
-Clone o repositório do projeto para sua máquina local:
+1. Clone o repositório do projeto para sua máquina local:
   
      ```bash
    git clone [URL do repositório]
    ````
 
-2. Mova o Projeto para o Diretório do Servidor <br>
+2.  Mova o Projeto para o Diretório do Servidor <br>
 🔹 Mova o projeto clonado para o diretório "htdocs" do XAMPP:
+<br>
 <br>
 3. Inicie o Servidor Apache e MySQL<br>
 🔹Abra o XAMPP e inicie os módulos "Apache" e "MySQL".
-<br>
 <br>
 
 **É muito importante o START no APACHE e MySQL caso esteja utilizando o XAMPP </br>
@@ -48,7 +47,7 @@ e que o arquivo seja colocado dentro da pasta "htdocs"** </br></br>
 4. Crie o Banco de Dados <br>
 🔹 Abra o phpMyAdmin através do XAMPP e crie um novo banco de dados chamado <i>"maquiagem"</i>.
 <br>
-
+<br>
 5. Importe o Banco de Dados <br>
 🔹 No phpMyAdmin, selecione o banco de dados <i>"maquiagem"</i> e importe o arquivo database.sql localizado no diretório database do projeto.
 <br>
